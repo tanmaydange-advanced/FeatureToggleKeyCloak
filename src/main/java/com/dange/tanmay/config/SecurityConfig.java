@@ -1,5 +1,6 @@
-package org.example;
+package com.dange.tanmay.config;
 
+import com.dange.tanmay.controller.KeycloakLogoutHandler;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Profile;
